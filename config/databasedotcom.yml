@@ -1,0 +1,7 @@
+client_id: 
+client_secret: 
+host: login.salesforce.com
+username: reuel3@gmail.com
+password: 
+verify_mode: OpenSSL::SSL::VERIFY_NONE
+debugging: false
